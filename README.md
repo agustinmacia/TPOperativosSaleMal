@@ -1,4 +1,3 @@
 # TPOperativosSaleMal
 
-
-Salvemos la libreria de sockets wey
+Salvemos los sockets wey
